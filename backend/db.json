@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Acer 104300",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5000
+    }
+  ]
+}
